@@ -1,5 +1,5 @@
 a = []
-for i in range(1024 * 1024 * 8000):
+for i in range(1024 * 1024 * 800):
   a.append(i)
   
 s = 1
